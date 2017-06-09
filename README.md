@@ -11,10 +11,14 @@ Procedure Details Page:
 This page should present the extra details of the procedure. There should be a card image at the top of the page, the title of the procedure and then a list of each of that phases that are contained within a procedure. Each phase should contain a thumbnail image and a name. This information can be acquired from the /procedure_details endpoint with the procedure id as a parameter, e.g procedure_details/procedure-TSC_DPapproach
 
 Setting up the local server:
- - fork this repository and clone to your machine
- - cd into the root directory
- - on terminal run: ```json-server --watch db.json```
- - The apis will be available at http://localhost:3000/procedures and http://localhost:3000/procedure_details
+  - fork this repository and clone to your machine
+  - cd into the root directory
+  - on terminal run:
+    - ```npm install -g json-server```
+    - ```json-server --watch db.json```
+  - The apis will be available here:
+    - http://localhost:3000/procedures
+    - http://localhost:3000/procedure_details
 
 
 Technologies to use:

@@ -1,0 +1,199 @@
+{
+  "procedures" : [
+    {
+      "id": "procedure-TSC_PosteriorApproachHip",
+      "name": "Posterior Approach to the Hip",
+      "icon":  "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/PosteriorApproachHip/icon/100.jpg"
+    },
+    {
+      "id": "procedure-TSC_LateralApproachHip",
+      "name": "Lateral Approach to the Hip",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/12/icon/icon.jpg"
+    },
+    {
+      "id": "procedure-JNJ_HerniaLapVentralRep",
+      "name": "Laparoscopic Ventral Hernia Repair",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/164/icon/icon.jpg"
+    },
+    {
+      "id": "procedure-TSC_HipHemi",
+      "name": "Cemented hip hemiarthroplasty",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/8/icon/icon.jpg"
+    },
+    {
+      "id": "procedure-DUK_ACDF",
+      "name": "Anterior Cervical Discectomy and Fusion",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/131/icon/icon.jpg"
+    },
+    {
+      "id": "procedure-DUK_TibNail",
+      "name": "Tibial Nailing",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/49/icon/icon.jpg"
+    },
+    {
+      "id": "procedure-TSC_CemCup",
+      "name": "Cemented hip cup",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/4/icon/icon.jpg"
+    },
+    {
+      "id": "procedure-TSC_DPapproach",
+      "name": "Anterior approach shoulder",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/icon/100.jpg"
+    },
+    {
+      "id": "procedure-MSN_OrbRecon",
+      "name": "Orbital Floor Reconstruction",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/28/icon/icon.jpg"
+    },
+      {
+      "id": "procedure-USH_IMA",
+      "name": "IMA Harvesting",
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/27/icon/icon.jpg"
+    }],
+  "procedure_details":[
+    {
+      "id": "procedure-TSC_PosteriorApproachHip",
+      "name": "Posterior Approach to the Hip",
+      "phases": [
+        {
+          "name": "Posterior Approach to the Hip",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/PosteriorApproachHip/icon/100.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/PosteriorApproachHip/icon/100.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/PosteriorApproachHip/card/100.jpg"
+    },
+    {
+      "id": "procedure-TSC_LateralApproachHip",
+      "name": "Lateral Approach to the Hip",
+      "phases": [
+        {
+          "name": "Lateral Approach to the Hip",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/32/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/12/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/12/card/card.jpg"
+    },
+    {
+      "id": "procedure-JNJ_HerniaLapVentralRep",
+      "name": "Laparoscopic Ventral Hernia Repair",
+      "phases": [
+        {
+          "name": "Preparation",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/359/icon/icon.jpg"
+        },
+        {
+          "name": "Ventral Hernia Repair",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/372/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/164/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/164/card/card.jpg"
+    },
+    {
+      "id": "procedure-TSC_HipHemi",
+      "name": "Cemented hip hemiarthroplasty",
+      "phases": [
+        {
+          "name": "Cemented hip hemiarthroplasty",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/45/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/8/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/8/card/card.jpg"
+    },
+    {
+      "id": "procedure-DUK_ACDF",
+      "name": "Anterior Cervical Discectomy and Fusion",
+      "phases": [
+        {
+          "name": "Cervical Approach",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/260/icon/icon.jpg"
+        },
+        {
+          "name": "Disc Approach and Discectomy",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/277/icon/icon.jpg"
+        },
+        {
+          "name": "Implant Insertion, Disc Fusion and Closure",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/302/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/131/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/131/card/card.jpg"
+    },
+    {
+      "id": "procedure-DUK_TibNail",
+      "name": "Tibial Nailing",
+      "phases": [
+        {
+          "name": "Patient Preparation",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/19/icon/icon.jpg"
+        },
+        {
+          "name": "Tibial Preparation",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/7/icon/icon.jpg"
+        },
+        {
+          "name": "Insertion of the Tibial Nail",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/8/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/49/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/49/card/card.jpg"
+    },
+    {
+      "id": "procedure-TSC_CemCup",
+      "name": "Cemented hip cup",
+      "phases": [
+        {
+          "name": "Cemented hip cup",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/4/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/4/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/4/card/card.jpg"
+    },
+    {
+      "id": "procedure-TSC_DPapproach",
+      "name": "Anterior approach shoulder",
+      "phases": [
+        {
+          "name": "Anterior approach shoulder",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/icon/100.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/icon/100.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/card/100.jpg"
+    },
+    {
+      "id": "procedure-MSN_OrbRecon",
+      "name": "Orbital Floor Reconstruction",
+      "phases": [
+        {
+          "name": "Exposure of Orbital Floor Fracture",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/201/icon/icon.jpg"
+        },
+        {
+          "name": "Insertion of Orbital Plate",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/204/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/28/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/28/card/card.jpg"
+    },
+    {
+      "id": "procedure-USH_IMA",
+      "name": "IMA Harvesting",
+      "phases": [
+        {
+          "name": "IMA Harvesting",
+          "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/module/122/icon/icon.jpg"
+        }
+      ],
+      "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/27/icon/icon.jpg",
+      "card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/procedure/27/card/card.jpg"
+    }
+  ]
+}

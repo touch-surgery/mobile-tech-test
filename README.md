@@ -30,5 +30,5 @@ TDD is a big part of how we work here are Touch Surgery. Please make sure that y
 # Bonus Points:
 For additional points, please write a few paragraphs on how you would handle data persistence / caching for use when offline. There are many ways to address this problem, we would be interested in hearing about your prefered approach. Examples of how you have solved this issue in the past would be helpful.
 
-# Android specific
-Use the ```2.3.3``` stable version Android Studio.
+# Android specific requirements
+Use the ```2.3.3``` stable version Android Studio. You can find it at [Android Studio archives](https://developer.android.com/studio/archive.html) page

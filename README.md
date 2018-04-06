@@ -5,10 +5,15 @@ We would like you to spend a few hours on the following technical task:
 Create an app with two screens:
 
 # Procedure Page:
-This should be the home page of the app. It should have a list of procedures cards/cells, each with a thumbnail image and a name. This information can be acquired from the /procedures endpoint. Clicking on one of the procedure cards/cells should take the user to the next page.
+This should be the home page of the app. 
+It should have a list of procedures cards/cells, each with a thumbnail image and a name. 
+This information can be acquired from the /procedures endpoint. Clicking on one of the procedure cards/cells should take the user to the next page.
 
 # Procedure Details Page:
-This page should present the extra details of the procedure. There should be a card image at the top of the page, the title of the procedure and then a list of each of that phases that are contained within a procedure. Each phase should contain a thumbnail image and a name. This information can be acquired from the /procedure_details endpoint with the procedure id as a parameter, e.g procedure_details/procedure-TSC_DPapproach
+This page should present the details of the procedure selected. 
+There should be a card image at the top of the page, the title of the procedure and then the list of phases for the procedure. 
+Each phase should contain a thumbnail image and a name. 
+This information can be acquired from the /procedure_details endpoint with the procedure id as a parameter, e.g procedure_details/procedure-TSC_DPapproach
 
 # General Instructions:
 - Do not fork the project. Do not create pull requests to this project. Clone it on your local machine.
